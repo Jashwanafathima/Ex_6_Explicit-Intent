@@ -1,5 +1,12 @@
 # Ex.No:6 Implement an application that uses Explicit Intent using Android
+## PROGRAM:
+Program to print the text “ExplicitIntent”.
 
+Developed by: Jashwana Fathima S
+
+Registeration Number : 212222040059
+
+Date : 23.09.2024
 
 ## AIM:
 
@@ -25,15 +32,6 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
 
-
-## PROGRAM:
-```
-/*
-Program to print the text “ExplicitIntent”.
-Developed by: Jashwana Fathima S
-Registeration Number : 212222040059
-*/
-```
 ## Activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
